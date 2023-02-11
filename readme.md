@@ -44,6 +44,11 @@
 
 <b>*GitHub Stats*:</b> 
   
+ 
+  <b> </b>
+
+<b>*GitHub Stats*:</b> 
+  
   <b> </b> 
   
   
@@ -52,13 +57,13 @@
 <tr>
   
   <td>
-  <a href="https://github.com/SamirPaul1">
-  <img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vishal Singh's Github Stats" height="180rem" />
+  <a href="https://github.com/mankotia412vishal">
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
   </a>
   </td>
     
   <td> 
-<a href="https://github.com/mankotia412vishal"><img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/SamirPaul1"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
 </tr>
