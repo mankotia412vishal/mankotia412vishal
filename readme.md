@@ -31,7 +31,27 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-
----
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&theme=dark&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&theme=dark&show_icons)](https://github.com/mankotia412vishal/github-readme-stats)
+<b>*GitHub Stats*:</b> 
+  
+  <b> </b> 
+  
+  
+<p align="center">
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/mankotia412vishal">
+  <img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+<a href="https://github.com/mankotia412vishal"><img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+  </td>
+    
+</tr>
+</table>
+</p>
+  
+ 
