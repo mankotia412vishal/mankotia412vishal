@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
- <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="<a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>" alt="Vishal Singh" height="30" width="40" /></a>
+ <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://www.svgrepo.com/svg/305880/codechef)" alt="Vishal Singh" height="30" width="40" /></a>
 </p>
 
 ---
