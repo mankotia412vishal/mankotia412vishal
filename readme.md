@@ -34,4 +34,4 @@
 
 ---
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&theme=dark&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&theme=dark&show_icons=true)](https://github.com/mankotia412vishal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&theme=dark&show_icons)](https://github.com/mankotia412vishal/github-readme-stats)
