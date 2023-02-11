@@ -38,4 +38,4 @@
  ![Vishal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&show_icons=true&theme=radical)
  
  ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact)](https://github.com/mankotia412vishal/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&layout&show_icons=true&theme=radical&compact)](https://github.com/mankotia412vishal/github-readme-stats)
