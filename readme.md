@@ -32,4 +32,5 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mankotia412vishal/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact)](https://github.com/mankotia412vishal/github-readme-stats)
