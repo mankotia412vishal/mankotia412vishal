@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
- 
+ <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="<a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>" alt="Vishal Singh" height="30" width="40" /></a>
 </p>
 
 ---
@@ -31,27 +31,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
-<b>*GitHub Stats*:</b> 
-  
-  <b> </b> 
-  
-  
-<p align="center">
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/mankotia412vishal">
-  <img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
-  </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/mankotia412vishal"><img align="center" src="https://github-readme-stats-mankotia412vishal.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
-</table>
-</p>
+ 
   
  
