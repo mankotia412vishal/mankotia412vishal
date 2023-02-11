@@ -33,5 +33,5 @@
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact)](https://github.com/mankotia412vishal/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&theme=dark&show_icons=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&layout&theme=compact&dark&show_icons=true)](https://github.com/mankotia412vishal/github-readme-stats)
