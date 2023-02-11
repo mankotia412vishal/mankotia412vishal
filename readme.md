@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
- <a class="fa-brands fa-medium" href="https://medium.com/@vishal.singh20" target="blank"><img align="center" src="https://icons8.com/icon/wYiGNIiB4OKj/medium" alt="Vishal Singh" height="30" width="40"  /></a>
+<i class="fa-brands fa-medium"></i>
 </p>
 
 ---
