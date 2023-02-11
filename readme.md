@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
-<a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FAbQBhN9v62Ob%2Fgeeksforgeeks&psig=AOvVaw3Y9abVXTpVCBtOlx7zLWEq&ust=1676223165975000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCUu4aAjv0CFQAAAAAdAAAAABAD)" alt="Vishal Singh" height="30" width="40" /></a>
+ 
  
 </p>
 
@@ -34,4 +34,4 @@
 <br />
  
   
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mankotia412vishal&langs_count=8)](https://github.com/mankotia412vishal/github-readme-stats)
