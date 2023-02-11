@@ -4,16 +4,11 @@
 
  I'm an indie Cross-platform developer ,content creator as well as DSA Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UCiW3zT8YVNWWGZ3fUkfLkIg">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   ### 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
+</p>
 
 ---
 ### 🧰 Languages and Tools
