@@ -42,7 +42,7 @@
  
  <b> </b>
 
-<b>*GitHub Stats*:</b> 
+ 
   
  
   <b> </b>
