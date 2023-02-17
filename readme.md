@@ -1,11 +1,11 @@
-# 🏄‍♂️ Vishal Singh
+## 🏄‍♂️ Vishal Singh
 
 
 <h2 align="left"> Hi there 👋, I'm Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 
-<h3 align="center">Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute  of Technology Pune , India</h3>
+      <h4 align="center">  Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute  of Technology Pune , India</h4>
 <br />
 
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
