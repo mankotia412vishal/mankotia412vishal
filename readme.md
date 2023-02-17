@@ -109,6 +109,6 @@
 <table>
  <tr> 
   <td> 
-    <p><img align="center" src="https://streak-stats.demolab.com/?user=mankotia412vishal&theme=tokyonight" alt="Vishal Singh" height="180rem" /></p>
+    <p><img align="left" src="https://streak-stats.demolab.com/?user=mankotia412vishal&theme=tokyonight" alt="Vishal Singh" height="170rem" /></p>
       </td> 
 </tr></table>
