@@ -3,14 +3,16 @@
 
 <pre>
             Doing my B.Tech in Information Technology(IT) from Vishwakarma Institute of Technology Pune,India 
-            </pre>
+       
+
+
 <br />
 
  I'm an indie Cross-platform developer ,content creator as well as DSA Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
  
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
-- 🔭 I’m currently working on Machine Learning Project i.e **[Best Courses Suggesting Using Sentiments Analysis Project]**
+- 🔭 I’m currently working on Machine Learning Project <pre> i.e Best Courses Suggesting Using Sentiments Analysis Project`. </pre>
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
