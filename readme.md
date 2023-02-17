@@ -34,7 +34,8 @@
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/mankotia412vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishal Singh" height="30" width="40" /></a>
- 
+ <a href="https://instagram.com/mankotia412vishal" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://user-images.githubusercontent.com/90970004/219650069-97d7e449-f02e-44b8-9b56-6a4d3ecea405.png)" alt="Vishal Singh" height="30" width="40" /></a>
+         
 </p>
 
 ---
