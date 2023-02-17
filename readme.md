@@ -1,6 +1,32 @@
 # 🏄‍♂️ Vishal Singh
 
+
+<h2 align="left"> Hi there 👋, I'm Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+
+
+<h3 align="center">Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute  of Technology Pune , India</h3>
+<br />
+
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
+
+- 🔭 I’m currently working on Machine Learning Project i.e **[Best Courses Suggesting Using Sentiments Analysis Project]**
+
+- 🌱 I’m currently learning **DSA, Machine Learning.**
+
+- 💬 Ask me about **Muliprogramming,DSA,Emerging technologies,Android,Web Technol.**
+
+- 🏊 Games I play **athletics** , **[Capture the flag](https://www.instagram.com/stories/highlights/17918231765585566).**
+
+- 📫 How to reach me **[See Left side at bottom](https://www.linkedin.com/in/vishal-singh-76a50a21b/).**
+
+- ⚡ Unfunny fact : India doesn't have **Men rights & Gender neutral laws.**
+
+- 📖 I read a lot of Blogs/Writeups on **Techologies & Hindu ~~mythology~~ history.**
+
+- 🐍 - Favourite programming language is **C++.**
+
+   <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341">
 
  I'm an indie Cross-platform developer ,content creator as well as DSA Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
