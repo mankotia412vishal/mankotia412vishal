@@ -1,9 +1,9 @@
 
 <h2 align="left"> 🏄‍♂️ Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<pre>
-            Doing my B.Tech in Information Technology(IT) from Vishwakarma Institute of Technology Pune,India 
-  </pre>     
+ 
+## Doing my B.Tech in Information Technology(IT) from Vishwakarma Institute of Technology Pune,India 
+    
 
 
 <br />
@@ -12,7 +12,7 @@
  
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
-- 🔭 I’m currently working on Machine Learning Project    i.e <b> Best Courses Suggesting Using Sentiments Analysis Project <\b> .  
+- 🔭 I’m currently working on Machine Learning Project ** Best Courses Suggesting Using Sentiments Analysis Project ** .  
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
