@@ -3,7 +3,7 @@
 
 <pre>
             Doing my B.Tech in Information Technology(IT) from Vishwakarma Institute of Technology Pune,India 
-       
+  </pre>     
 
 
 <br />
@@ -12,7 +12,7 @@
  
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
-- 🔭 I’m currently working on Machine Learning Project   i.e Best Courses Suggesting Using Sentiments Analysis Project`.
+- 🔭 I’m currently working on Machine Learning Project   <pre> i.e Best Courses Suggesting Using Sentiments Analysis Project.   </pre>     
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
