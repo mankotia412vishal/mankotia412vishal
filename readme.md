@@ -33,6 +33,8 @@
 ### 🔗 Connect with me
 
 <p align="left">
+             
+<a href="https://auth.geeksforgeeks.org/user/mankotia412vishal/practice" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219651929-c808e76d-4577-4a27-a7b8-cd3674dec33b.png" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/mankotiavishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/mankotia412vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishal Singh" height="30" width="40" /></a>
