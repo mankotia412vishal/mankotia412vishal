@@ -3,9 +3,7 @@
 
 <h2 align="left"> Hi there 👋, I'm Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-
-
-      <h4 align="center">  Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute  of Technology Pune , India</h4>
+            Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute  of Technology Pune , India 
 <br />
 
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
@@ -24,7 +22,7 @@
 
 - 📖 I read a lot of Blogs/Writeups on **Techologies & Hindu ~~mythology~~ history.**
 
-- 🐍 - Favourite programming language is **C++.**
+- 🐍 - Favourite programming language is **C++,Python.**
 
    <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341">
 
