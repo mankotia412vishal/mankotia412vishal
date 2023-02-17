@@ -12,7 +12,7 @@
  
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
-- 🔭 I’m currently working on Machine Learning Project    i.e <b>Best Courses Suggesting Using Sentiments Analysis Project<\b>.  
+- 🔭 I’m currently working on Machine Learning Project    i.e <b> Best Courses Suggesting Using Sentiments Analysis Project <\b> .  
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
