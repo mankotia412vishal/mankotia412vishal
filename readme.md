@@ -70,8 +70,9 @@
 </tr>
 </table>
 </p>
+<table>
  <tr> 
   <td> 
     <p><img align="center" src="https://streak-stats.demolab.com/?user=mankotia412vishal&theme=tokyonight" alt="Vishal Singh" /></p>
       </td> 
-</tr>
+</tr></table>
