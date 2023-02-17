@@ -46,6 +46,11 @@
 </p>
 
 ---
+
+<h3 style={{ textAlign: "left" }}>Download Resume : </h3>
+  <a href="https://github.com/mankotia412vishal/mankotia412vishal/files/10766706/Vishal.s.Resume.2023.pdf"  style={{color: '#1DA1F2', height:"30" ,width:"40"}} target="blank"><img style={{ textAlign: "center" }} src="https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=readme&logoColor=white" alt="Vishal Singh"  /></a>  
+  
+  ---
 ### 🧰 Languages and Tools
 
 
