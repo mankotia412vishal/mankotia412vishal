@@ -66,11 +66,12 @@
 <a href="https://github.com/SamirPaul1"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=mankotia412vishal&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
-   <td> 
-    <p><img align="center" src="https://streak-stats.demolab.com/?user=mankotia412vishal&theme=tokyonight" alt="Vishal Singh" /></p>
-      </td> 
+  
 </tr>
 </table>
 </p>
-  
-
+ <tr> 
+  <td> 
+    <p><img align="center" src="https://streak-stats.demolab.com/?user=mankotia412vishal&theme=tokyonight" alt="Vishal Singh" /></p>
+      </td> 
+</tr>
