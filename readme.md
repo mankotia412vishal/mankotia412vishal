@@ -58,7 +58,7 @@
   
   <td>
   <a href="https://github.com/mankotia412vishal">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=mankotia412vishal&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vishal Github Stats" height="180rem" />
   </a>
   </td>
     
