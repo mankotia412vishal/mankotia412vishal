@@ -1,18 +1,16 @@
 
 <h2 align="left"> 🏄‍♂️ Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+**`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
 <h4 align="center">Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute of Technology Pune,India </h4> 
- 
  <hr>   
-
-
 <br />
 
  I'm an indie Cross-platform developer ,content creator as well as DSA Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
  
-**`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
-- 🔭 I’m currently working on Machine Learning Project ** Best Courses Suggesting Using Sentiments Analysis Project ** .  
+
+- 🔭 I’m currently working on Machine Learning Project **Best Courses Suggesting Using Sentiments Analysis Project** .  
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
