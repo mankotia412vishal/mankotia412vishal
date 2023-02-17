@@ -3,7 +3,7 @@
 
 <h4 align="center">Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute of Technology Pune,India </h4> 
  
-    
+ <hr>   
 
 
 <br />
@@ -83,7 +83,7 @@
   
  
   <b> </b>
-
+ <hr> 
 <b>*GitHub Stats*:</b> 
   
   <b> </b> 
