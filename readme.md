@@ -6,7 +6,7 @@
 <br />
 
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
-`Parkalp Hackathon Winner 2023`
+
 
  I'm an indie Cross-platform developer ,content creator as well as DSA Enthusiast building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
  
