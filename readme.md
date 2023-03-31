@@ -1,9 +1,10 @@
 
-<h2 align="left"> 🏄‍♂️ Vishal Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Vishal</h1>
+<h3 align="center">I'm a Problem Solving enthusiast and currently a junior pursuing BTech degree in Information Technology at VIT Pune.</h3>
 
-<h4 align="center">Doing my B.Tech in Information Technology (IT) from Vishwakarma Institute of Technology Pune,India </h4> 
- <hr>   
-<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mankotia412vishal=Profile%20views&color=0e75b6&style=flat" alt="mankotia412vishal" /></p>
+
+
 
 **`Digital innovator(Developer / Creator / DSA Enthusiast)`**
 
