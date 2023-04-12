@@ -42,8 +42,7 @@
 <a href="https://instagram.com/mankotia412vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishal Singh" height="30" width="40" /></a>
  <a href="https://www.codechef.com/users/mankotia01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219650460-24beb0af-284d-45b6-9721-2ada09ac900a.png" alt="Vishal Singh" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/2ca44179-3ff1-4955-904c-002551c21788" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219650834-1f7376e2-a923-4e0a-b2e1-1a1510d80505.png" alt="Vishal Singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal_singh20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219651481-14772c8f-b7f7-4e15-bac6- 
-e41acce6a4a4.png" alt="Vishal Singh" height="30" width="40" /></a>              
+<a href="https://www.hackerrank.com/vishal_singh20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90970004/219651481-14772c8f-b7f7-4e15-bac6-e41acce6a4a4.png" alt="Vishal Singh" height="30" width="40" /></a>              
 </p>
 
 ---
