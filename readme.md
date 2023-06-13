@@ -73,7 +73,15 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <br />
  
-  
+ ## 🙋 Let's Connect
+
+<p align="center">
+<!-- 	<a href="https://pulkitgiddu.netlify.app/#/w" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
+	<a href="https://github.com/mankotia412vishal" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/vishal-singh-76a50a21b/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/mankotia412vishal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:mankotia412vishal@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 <!--  ---
  ![Vishal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mankotia412vishal&show_icons=true&theme=radical)
  
