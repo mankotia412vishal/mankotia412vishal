@@ -13,7 +13,7 @@
  
 
 
-- 🔭 I’m currently working on Machine Learning Project **Best Courses Suggesting Using Sentiments Analysis Project** .  
+- 🔭 I’m currently working on Enchancing my skills  **Mern Stack and Problem Solving ** .  
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
@@ -29,7 +29,7 @@
 
 - 🐍 - Favourite programming language is **C++,Python.**
 
-   <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341">
+  <!-- <img src="https://imgs.xkcd.com/comics/python.png" width="300"> <img src=https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif width="341"> -->
 
 ---
 
