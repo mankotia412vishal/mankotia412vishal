@@ -13,7 +13,7 @@
  
 
 
-- 🔭 I’m currently working on Enchancing my skills  **Mern Stack and Problem Solving ** .  
+- 🔭 I’m currently working on Enchancing my skills  ** Mern Stack and Problem Solving ** .  
 
 - 🌱 I’m currently learning **DSA, Machine Learning.**
 
