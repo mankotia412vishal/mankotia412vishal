@@ -1,0 +1,17 @@
+steps used to deploy a website for free
+
+Firebase init
+public build
+ What do you want to use as your public directory? build
+? Configure as a single-page app (rewrite all urls to /index.html)? Yes
+? Set up automatic builds and deploys with GitHub? No
++  Wrote build/index.html
+
+i  Writing configuration info to firebase.json...
+i  Writing project information to .firebaserc...
+
++  Firebase initialization complete!
+PS E:\2nd year till\Third Year\Projects Folder Sem 5\SADM Cp\Expense-T\client> npm run build
+
+
+PS E:\2nd year till\Third Year\Projects Folder Sem 5\SADM Cp\Expense-T\client> firebase deploy --only hosting
